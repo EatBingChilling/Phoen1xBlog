@@ -48,7 +48,7 @@ code_blocks:
 #   icon: link || the description || color
 social:
     fab fa-github: https://github.com/EatBingChilling || Github || '#24292e'
-    fas fa-envelope: https://b23.tv/yrCDs92 || BiliBili || '#4a7dbe'
+    fa-brands fa-bilibili: https://b23.tv/yrCDs92 || BiliBili || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # --------------------------------------
